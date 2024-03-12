@@ -4,10 +4,10 @@
 
 
 
-Sample Queries:
-1.What is Onepane?
-2.Why Onepane?
-3.How Onepane does things?
+Sample Queries:<br>
+1.What is Onepane?<br>
+2.Why Onepane?<br>
+3.How Onepane does things?<br>
 
 <p>
   Happy <span style="color: #FF0000;">hacking!</span>
