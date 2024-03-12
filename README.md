@@ -4,7 +4,10 @@
 
 
 
-
+Sample Queries:
+1.What is Onepane?
+2.Why Onepane?
+3.How Onepane does things?
 
 <p>
   Happy <span style="color: #FF0000;">hacking!</span>
