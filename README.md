@@ -9,6 +9,10 @@ Sample Queries:<br>
 2.Why Onepane?<br>
 3.How Onepane does things?<br>
 
+Reference: <br>
+1.https://python.langchain.com/docs/use_cases/question_answering/quickstart
+
+
 <p>
   Happy <span style="color: #FF0000;">hacking!</span>
 </p>
